@@ -1,0 +1,6 @@
+projectKey=Habitus
+serverUrl=http://localhost:9000
+serverVersion=26.4.0.121862
+dashboardUrl=http://localhost:9000/dashboard?id=Habitus
+ceTaskId=0ce52c91-387c-4324-ae06-26bf60f60387
+ceTaskUrl=http://localhost:9000/api/ce/task?id=0ce52c91-387c-4324-ae06-26bf60f60387
